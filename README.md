@@ -24,7 +24,7 @@ NSS Front-End Milestone 1 (Static Web) Exercise 3:
 
 ``` 
 git clone https://github.com/MeganCFord/NSS-SW-3-PersonalBio.git
-cd 2-loan-app
+cd 3-personal-bio
 open index.html
 ```
 
